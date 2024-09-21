@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "node": "20.7.0"
+  },
   "scripts": {
     "server": "node backend/server.js",
     "start": "node backend/server.js",
